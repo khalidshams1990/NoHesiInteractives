@@ -95,6 +95,7 @@ article:hover {
 #signup-form button, #login-form button {
   background-color: black; /* Set background color */
   cursor: pointer; /* Pointer cursor */
+  color: white;
   transition: background-color 0.3s ease; /* Smooth background color transition */
 }
 
